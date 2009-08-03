@@ -1,0 +1,5 @@
+cron:
+- description: almost realtime twits
+  url: /broadcast/realtime
+  schedule: every 4 minutes
+
